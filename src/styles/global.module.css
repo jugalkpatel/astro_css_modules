@@ -1,0 +1,10 @@
+@value myvalue: 300;
+
+.btn {
+  background-color: brown;
+  color: white;
+}
+
+/* :global .an {
+  color: green;
+} */
